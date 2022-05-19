@@ -1,0 +1,16 @@
+export const registerRoute = `/api/auth/register`;
+export const loginRoute = `/api/auth/login`;
+export const logoutRoute = `/api/auth/logout`;
+export const createPostRoute = `/api/posts`;
+export const refreshRoute = `/api/auth/refresh`;
+export const createPrayerRoute = `/api/prayer`;
+export const createVerseRoute = `/api/verse`;
+export const getPostsRoute = `/api/posts`;
+export const likePostsRoute = `/api/likepost`;
+export const postCommentRoute = `/api/postcomment`;
+export const getVerseRoute = `/api/verse`;
+export const getPrayerRoute = `/api/prayer`;
+export const getLeadersRoute = `/api/getleaders`;
+export const usersRoute = `/api/users`;
+export const messageRoute = `/api/message`;
+export const host = `https://glorious-salvation.herokuapp.com`;
